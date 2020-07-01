@@ -31,6 +31,8 @@
   },
   "dependencies": {
     "@fancyapps/fancybox": "^3.5.7",
-    "animate.css": "^4.1.0"
+    "animate.css": "^4.1.0",
+    "lodash": "^4.17.15",
+    "lodash.template": "^4.5.0"
   }
 }
