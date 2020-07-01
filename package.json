@@ -1,6 +1,6 @@
 {
   "name": "gallery",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -31,8 +31,6 @@
   },
   "dependencies": {
     "@fancyapps/fancybox": "^3.5.7",
-    "animate.css": "^4.1.0",
-    "package-name": "^0.1.0",
-    "url-parse": "^1.4.7"
+    "animate.css": "^4.1.0"
   }
 }

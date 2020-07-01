@@ -31,10 +31,10 @@ gulp.task('images', function () {
 
 gulp.task('scripts', function () {
     return gulp.src([
-        'node_modules/jquery/dist/jquery.min.js',
-        'node_modules/@fancyapps/fancybox/dist/jquery.fancybox.js',
-        'node_modules/owl.carousel/dist/owl.carousel.js',
-        'node_modules/object-fit-images/dist/ofi.js',
+        // 'node_modules/jquery/dist/jquery.min.js',
+        // 'node_modules/@fancyapps/fancybox/dist/jquery.fancybox.js',
+        // 'node_modules/owl.carousel/dist/owl.carousel.js',
+        // 'node_modules/object-fit-images/dist/ofi.js',
     ])
         // .pipe(babel({
         //     presets: ['@babel/env']
