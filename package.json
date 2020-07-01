@@ -25,9 +25,9 @@
     "gulp-watch": "^5.0.1",
     "gulp-watch-sass": "^1.4.1",
     "hamburgers": "^1.1.3",
-    "jquery": "^3.4.1",
-    "owl.carousel": "^2.3.4",
-    "jquery-lazy": "^1.7.10"
+    "jquery": "^3.5.1",
+    "jquery-lazy": "^1.7.10",
+    "owl.carousel": "^2.3.4"
   },
   "dependencies": {
     "@fancyapps/fancybox": "^3.5.7",
